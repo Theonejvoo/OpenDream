@@ -1,3 +1,5 @@
+<p align="center">
+
 # OpenMind
 
 <p align="center">
