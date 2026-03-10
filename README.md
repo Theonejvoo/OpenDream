@@ -1,9 +1,11 @@
 <p align="center">
+<img src="https://github.com/user-attachments/assets/d9280ccc-9bc8-43f2-b166-4459e2b16cf7" width="350">
+</p>
 
-# OpenMind
+<h1 align="center">OpenMind</h1>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/d9280ccc-9bc8-43f2-b166-4459e2b16cf7" width="350">
+Collective AI Intelligence Framework
 </p>
 
 <p align="center">
@@ -23,13 +25,19 @@
 
 ---
 
-# 🧠 OpenMind
+<p align="center">
+OpenMind is an experimental collective intelligence framework designed to combine the reasoning of multiple AI agents into a single unified artificial mind.
+</p>
 
-OpenMind is an experimental **collective AI intelligence framework** designed to combine the reasoning of multiple AI agents into a single unified system.
+---
 
-Instead of relying on a single model, OpenMind creates a **hive intelligence network** where independent agents collaborate, debate, and merge reasoning to produce stronger decisions.
+# 🧠 Overview
 
-The system simulates a **distributed artificial mind**.
+OpenMind explores **multi-agent intelligence systems** where independent AI agents collaborate, debate, and merge reasoning signals to produce stronger decisions.
+
+Instead of relying on a single model, OpenMind creates a **hive intelligence architecture**.
+
+Each agent acts as a **node in a distributed artificial brain**.
 
 ---
 
@@ -37,9 +45,9 @@ The system simulates a **distributed artificial mind**.
 
 Traditional AI systems rely on **single-model reasoning**.
 
-OpenMind explores **collective intelligence**, where many agents work together as one cognitive system.
+OpenMind experiments with **collective reasoning**, where multiple agents work together to solve problems.
 
-Each agent acts as a **node in a digital brain**, contributing signals that combine into a unified decision.
+The final output emerges from **consensus intelligence**.
 
 ---
 
@@ -66,9 +74,7 @@ Each agent acts as a **node in a digital brain**, contributing signals that comb
 
 # 🤖 Agent Roles
 
-OpenMind allows specialized agents to collaborate.
-
-| Agent | Role |
+| Agent | Function |
 |------|------|
 Research Agent | gathers information |
 Logic Agent | evaluates reasoning |
@@ -76,7 +82,7 @@ Prediction Agent | forecasts outcomes |
 Critic Agent | challenges conclusions |
 Memory Agent | stores knowledge |
 
-Agents exchange reasoning signals across the network.
+Agents communicate and exchange reasoning signals.
 
 ---
 
@@ -113,16 +119,16 @@ OpenMind merges multiple reasoning strategies:
 • agent debate  
 • weighted voting  
 • signal aggregation  
-• shared memory  
+• shared memory context  
 • collaborative reasoning loops  
 
 This allows the system to simulate **emergent intelligence**.
 
 ---
 
-# 🌐 Long-Term Vision
+# 🌐 Vision
 
-OpenMind explores the possibility of a **distributed artificial mind** capable of:
+OpenMind explores the future of **distributed artificial intelligence** capable of:
 
 • collaborative problem solving  
 • autonomous reasoning  
@@ -139,7 +145,7 @@ STATUS: Experimental Research Framework
 
 OpenMind is currently under early development.
 
-Future versions may explore:
+Future work may explore:
 
 • agent evolution  
 • adaptive consensus systems  
@@ -155,6 +161,6 @@ MIT License
 
 # ⚠️ Disclaimer
 
-This project is an **experimental research framework** exploring collaborative AI architectures.
+OpenMind is an **experimental research framework** exploring collective AI systems.
 
-It is not intended for production environments.
+Not intended for production environments.
