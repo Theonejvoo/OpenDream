@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: OpenDream
+message: Please cite this project if you use it in research.
+authors:
+  
+family-names: OpenDream
+  given-names: Project
+version: 0.1.0
