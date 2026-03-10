@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 OpenDream
+# 🧠 OpenMind
 
 <img width="472" height="466" alt="Screenshot 2026-03-10 174806" src="https://github.com/user-attachments/assets/d9280ccc-9bc8-43f2-b166-4459e2b16cf7" />
 
@@ -16,7 +16,7 @@
 ![system](https://img.shields.io/badge/system-neural--interface-orange)
 ![license](https://img.shields.io/badge/license-MIT-informational)
 
-**OpenDream** is an experimental neural–AI interface concept designed to connect human cognitive signals with autonomous **OpenClaw agents**.
+**OpenMind** is an experimental neural–AI interface concept designed to connect human cognitive signals with autonomous **OpenClaw agents**.
 
 </div>
 
@@ -39,7 +39,7 @@ The goal is to create a system where AI assists human thinking in real time.
 
 # 🧠 Core Concept
 
-OpenDream is inspired by advances in brain-computer interfaces but focuses on **AI-assisted cognition** rather than motor control.
+OpenMind is inspired by advances in brain-computer interfaces but focuses on **AI-assisted cognition** rather than motor control.
 
 The system investigates how neural intent signals could be interpreted and used to interact directly with AI systems.
 
