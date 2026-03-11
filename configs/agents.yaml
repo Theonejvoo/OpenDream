@@ -1,0 +1,12 @@
+agents:
+  research_agent:
+    role: research
+    priority: high
+
+  logic_agent:
+    role: reasoning
+    priority: medium
+
+  prediction_agent:
+    role: forecasting
+    priority: medium
