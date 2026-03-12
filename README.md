@@ -5,7 +5,7 @@
 
 </p>
 
-<h1 align="center">OpenMind</h1>
+<h1 align="center">Claw 2028</h1>
 
 <p align="center">
 Collective AI Intelligence Framework
